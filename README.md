@@ -1,2 +1,7 @@
-# popcornsar.github.io_ver3
-2018.06월 개편 예정 홈페이지
+1. global package install
+ - $ npm install -g webpack webpack-dev-server
+ - $ npm i -g webpack-cli && npm i -D webpack webpack-cli
+
+2. $ npm install
+
+4. $ npm start
